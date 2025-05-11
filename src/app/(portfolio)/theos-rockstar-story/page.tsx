@@ -4,13 +4,13 @@ import Title from "../../../../lib/components/Title";
 import Description from "../../../../lib/components/Description";
 
 export const metadata: Metadata = {
-    title: "Theo's RockSTAR Story",
+    title: "Theo's rockSTAR Story",
 };
 
 export default function Page() {
     return <>
         <Video video_id_first="1083326326" video_id_second="a606ed0be7" />
-        <Title>Theo&apos;s RockSTAR Story</Title>
+        <Title>Theo&apos;s rockSTAR Story</Title>
         <Description>
             A documentary I edited, highlighting the inspiring journey of Theo, a “rockSTAR”
             with the Melodic Caring Project. While enduring major medical challenges and spending his

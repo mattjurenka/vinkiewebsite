@@ -5,13 +5,13 @@ import Video from "../../../../lib/components/Video";
 import Title from "../../../../lib/components/Title";
 
 export const metadata: Metadata = {
-    title: "From Death To Life",
+    title: "From Death to Life",
 };
 
 export default function Page() {
     return <>
         <Video video_id_first="1083321010" video_id_second="01bf88d6f2" />
-        <Title>From Death To Life</Title>
+        <Title>From Death to Life</Title>
         <Description>
             A deeply personal short film I wrote, produced, and edited as a solo school project.
             Featuring original music by my band The Future Is, this emotional narrative follows
