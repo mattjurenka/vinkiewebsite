@@ -1,4 +1,9 @@
+import { Metadata } from "next";
 import Video from "../../../../lib/components/Video";
+
+export const metadata: Metadata = {
+    title: "Theo's Rockstar Story",
+};
 
 export default function Page() {
     return <>

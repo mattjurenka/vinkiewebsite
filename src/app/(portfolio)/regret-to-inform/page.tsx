@@ -1,5 +1,10 @@
+import { Metadata } from "next";
 import Description from "../../../../lib/components/Description";
 import Video from "../../../../lib/components/Video";
+
+export const metadata: Metadata = {
+    title: "Regret to Inform",
+};
 
 export default function Page() {
     return <>

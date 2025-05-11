@@ -17,7 +17,7 @@ export default function Layout({
     return <div className='flex justify-center'>
       <div className="flex flex-col gap-4 p-4 md:px-16 max-w-xl md:max-w-5xl items-center justify-start min-h-screen">
         <ToggleMenu />
-        <div className='flex items-center w-full justify-center'>
+        <div className='flex gap-8 items-center w-full justify-center'>
           <Link href={"/"}>
             <h1 className="font-extrabold text-4xl font-mono text-center my-8">
               VINCENT CHIABAI

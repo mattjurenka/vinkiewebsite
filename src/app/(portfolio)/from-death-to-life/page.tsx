@@ -4,7 +4,7 @@ import Description from "../../../../lib/components/Description";
 import Video from "../../../../lib/components/Video";
 
 export const metadata: Metadata = {
-    title: 'From Death To Life',
+    title: "From Death To Life",
 };
 
 export default function Page() {
