@@ -11,3 +11,7 @@
 1. Create a thumbnail image and upload it to UploadThing. The image should be 1024x428 in WebP format.
 2. Upload the video to Vimeo and note the resulting URL. For example `https://vimeo.com/1083322503/f4c5e9856e?ts=0&share=copy`. In this example, `1083322503` is `video_id_first`, and `f4c5e9856e` is `video_id_second`.
 3. Duplicate the folder `src/app/(portfolio)/2025-gala-recap` and rename the duplicated folder into an appropriate title, e.g. `src/app/(portfolio)/my-new-video-title`. Now under `my-new-video-title/page.tsx`, update `video_id_first` and `video_id_second` as appropriate, as well as editing the description inside the `<Description></Description>` tag.
+4. 
+5. Check your work with `pnpm run dev` and visit [http://localhost:3000/](http://localhost:3000/) in your web browser.
+6. Run `pnpm run build` to check that the site will be built correctly. There should be no errors.
+7. Commit

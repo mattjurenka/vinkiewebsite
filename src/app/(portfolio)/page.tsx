@@ -1,6 +1,6 @@
-"use client"
 
 import Thumbnail from "../../../lib/components/Thumbnail";
+
 
 export default function Home() {
   return (
@@ -21,7 +21,7 @@ export default function Home() {
         page_url="theos-rockstar-story"
       />
       <Thumbnail
-        img_url="https://fdpu740ek4.ufs.sh/f/aJLfTNgnRfQIaUF09JgnRfQIhl9OoG7JU5XHy4exZpirWs0E"
+        img_url="https://fdpu740ek4.ufs.sh/f/aJLfTNgnRfQIx5cOASyBPtbsKFoJ9mWpIX8RElzuQnSvyhiq"
         title="2025 Gala Recap"
         page_url="2025-gala-recap"
       />
