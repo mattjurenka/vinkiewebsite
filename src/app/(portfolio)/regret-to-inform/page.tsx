@@ -1,6 +1,7 @@
 import { Metadata } from "next";
 import Description from "../../../../lib/components/Description";
 import Video from "../../../../lib/components/Video";
+import Title from "../../../../lib/components/Title";
 
 export const metadata: Metadata = {
     title: "Regret to Inform",
@@ -9,6 +10,7 @@ export const metadata: Metadata = {
 export default function Page() {
     return <>
         <Video video_id_first="1083322503" video_id_second="f4c5e9856e" />
+        <Title>Regret to Inform</Title>
         <Description>
             A short film I wrote, directed, produced, edited, and scored as a school project.
             Set in the aftermath of personal tragedy, the story centers on a grieving man weighed down

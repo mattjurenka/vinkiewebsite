@@ -1,6 +1,7 @@
 import { Metadata } from "next";
 import Description from "../../../../lib/components/Description";
 import Video from "../../../../lib/components/Video";
+import Title from "../../../../lib/components/Title";
 
 export const metadata: Metadata = {
     title: "2025 Gala Recap",
@@ -9,6 +10,7 @@ export const metadata: Metadata = {
 export default function Page() {
     return <>
         <Video video_id_first="1083325003" video_id_second="74c13e97c9" />
+        <Title>2025 Gala Recap</Title>
         <Description>
             A highlight video capturing the energy and heart of the Melodic Caring
             Project’s annual gala. I filmed the event, directed camera ops, created on-screen content,
