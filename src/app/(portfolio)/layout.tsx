@@ -12,8 +12,8 @@ export default function Layout({
   children: React.ReactNode;
 }>) {
     const [open, set_open] = useState(false)
-    return <div className="flex flex-col gap-4 p-4 justify-center">
-      <div className={`${open ? "" : "hidden"} flex flex-col gap-4 border-b border-b-white pb-4 text-gray-400 font-bold text-center`}>
+    return <div className="flex flex-col gap-4 p-4 justify-start min-h-screen">
+      <div className={`${open ? "" : "hidden"} flex flex-col gap-4 border-b border-b-white pb-4 text-gray-400 font-semibold text-center font-sans`}>
         <Link href={"/"}>
           PORTFOLIO
         </Link>
@@ -24,10 +24,10 @@ export default function Layout({
           CONTACT
         </Link>
       </div>
-      <button className='' onClick={() => set_open(!open)}>MENU</button>
-      <Link href={"/"}><h1 className="font-extrabold text-3xl font-mono text-center my-8">Vincent Chiabai</h1></Link>
+      <button className='font-sans font-bold cursor-pointer' onClick={() => set_open(!open)}>MENU</button>
+      <Link href={"/"}><h1 className="font-extrabold text-4xl font-mono text-center my-8">VINCENT CHIABAI</h1></Link>
       {children}
-      <div className='gap-2 flex text-xl self-end'>
+      <div className='gap-2 flex text-xl self-end mt-auto'>
         <Link href={"mailto:vincentchiabai@icloud.com"} target='_blank'>
           <FontAwesomeIcon icon={faEnvelope}/>
         </Link>

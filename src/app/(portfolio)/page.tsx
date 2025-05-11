@@ -11,9 +11,19 @@ export default function Home() {
         page_url="from-death-to-life"
       />
       <Thumbnail
-        img_url="https://fdpu740ek4.ufs.sh/f/aJLfTNgnRfQIk3JE5bSsZ2nWv7EVfzerK6CIbNSFXo1at9R3"
+        img_url="https://fdpu740ek4.ufs.sh/f/aJLfTNgnRfQI68dlG3LVJCLIuiTdo4kWmcw1RU9azy5tEhGN"
         title="Regret To Inform"
         page_url="regret-to-inform"
+      />
+      <Thumbnail
+        img_url="https://fdpu740ek4.ufs.sh/f/aJLfTNgnRfQInhrcFcvoVTbSPZtlwKAN8qeDGy9BsYWiFkEm"
+        title="Theo's Rockstar Story"
+        page_url="theos-rockstar-story"
+      />
+      <Thumbnail
+        img_url="https://fdpu740ek4.ufs.sh/f/aJLfTNgnRfQIaUF09JgnRfQIhl9OoG7JU5XHy4exZpirWs0E"
+        title="2025 Gala Recap"
+        page_url="2025-gala-recap"
       />
     </div>
   );

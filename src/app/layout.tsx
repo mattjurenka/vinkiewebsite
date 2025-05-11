@@ -1,17 +1,17 @@
-import { Geist, Geist_Mono } from "next/font/google";
+import { League_Spartan, Outfit } from "next/font/google";
 import "./globals.css";
 
 import { config } from '@fortawesome/fontawesome-svg-core'
 import '@fortawesome/fontawesome-svg-core/styles.css'
 config.autoAddCss = false
 
-const geistSans = Geist({
-  variable: "--font-geist-sans",
+const geistSans = Outfit({
+  variable: "--font-outfit",
   subsets: ["latin"],
 });
 
-const geistMono = Geist_Mono({
-  variable: "--font-geist-mono",
+const geistMono = League_Spartan({
+  variable: "--font-league-spartan",
   subsets: ["latin"],
 });
 
