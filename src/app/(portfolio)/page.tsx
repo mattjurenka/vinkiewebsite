@@ -16,9 +16,14 @@ export default function Home() {
         page_url="mt-joy"
         />
       <Thumbnail
-        img_url="https://fdpu740ek4.ufs.sh/f/aJLfTNgnRfQI68dlG3LVJCLIuiTdo4kWmcw1RU9azy5tEhGN"
-        title="Regret to Inform"
-        page_url="regret-to-inform"
+        img_url="https://fdpu740ek4.ufs.sh/f/aJLfTNgnRfQISvWeoQvU5TEZ0wbIXjgxqetfB6rC1l8SmhYi"
+        title="Tadpole"
+        page_url="tadpole"
+      />
+       <Thumbnail
+        img_url="https://fdpu740ek4.ufs.sh/f/aJLfTNgnRfQIdhwG9UWw8tPjvJbHe9gQoG0s74KMcNXSUlFx"
+        title="Carry My Soul"
+        page_url="carry-my-soul"
       />
       <Thumbnail
         img_url="https://fdpu740ek4.ufs.sh/f/aJLfTNgnRfQInhrcFcvoVTbSPZtlwKAN8qeDGy9BsYWiFkEm"
@@ -26,14 +31,14 @@ export default function Home() {
         page_url="theos-rockstar-story"
       />
       <Thumbnail
-        img_url="https://fdpu740ek4.ufs.sh/f/aJLfTNgnRfQIx5cOASyBPtbsKFoJ9mWpIX8RElzuQnSvyhiq"
-        title="2025 Gala Recap"
-        page_url="2025-gala-recap"
+        img_url="https://fdpu740ek4.ufs.sh/f/aJLfTNgnRfQIU6Qh4bBCu9DGxhVJjwS10NUtoIWiY84Erk67"
+        title="The Voice"
+        page_url="the-voice"
       />
       <Thumbnail
-        img_url="https://fdpu740ek4.ufs.sh/f/aJLfTNgnRfQIDmIln2RtkeKxOqySJGtdZ60lgXcTrUivMuPA"
-        title="Merit Volunteer Day"
-        page_url="merit-volunteer-day"
+        img_url="https://fdpu740ek4.ufs.sh/f/aJLfTNgnRfQIQJwUDru3drhuRFHtXN7qU1O286bJzjQegBmx"
+        title="The Cremation of Sam McGee"
+        page_url="the-cremation-of-sam-mcgee"
       />
     </div>
     

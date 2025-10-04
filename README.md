@@ -18,7 +18,7 @@
 7. Check your work with `npm run dev` and visit [http://localhost:3000/](http://localhost:3000/) in your web browser.
 8. Run `npm run build` to check that the site will be built correctly. There should be no errors.
 9. Add the unchanged files to git: `git add .`
-10. Commit `git add . -m "your change message"`
+10. Commit `git commit . -m "your change message"`
 11. Push: `git push`. This will trigger a build and the changes will soon be available at [https://vinkiewebsite.pages.dev/](https://vinkiewebsite.pages.dev/)
 
 
@@ -31,7 +31,12 @@ Sign on Tasks:
 
 Making Changes:
 page.tsx is the main page. Upload thumbnail to upload thing. Copy link and paste it where it needs to go. Then change the actual page that is labeled with the name.
+If you want to check your work, type: "npm run dev" in terminal and command click the local link.
+page.tsx is what determines the order on the website. The website can scroll down infinitely, so just keep adding videos
 
 Sign off Tasks:
 1. "npm run build" in terminal
-2. "git add ." in terminal
+2. "ls" in terminal and make sure README.md is listed 'if not, "cd .." in terminal'
+3. "git add ." in terminal
+4. "git commit -m "change message"
+5. "git push" in terminal
