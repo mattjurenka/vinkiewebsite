@@ -6,10 +6,15 @@ export default function Home() {
   return (
     <div className="flex flex-col gap-8">
       <Thumbnail
-        img_url="https://fdpu740ek4.ufs.sh/f/aJLfTNgnRfQIY7lzHKjBXgijfnmzTvdrxQ53FqkEc8NWCIDM"
-        title="From Death to Life"
-        page_url="from-death-to-life"
+        img_url="https://fdpu740ek4.ufs.sh/f/aJLfTNgnRfQInlKSt7voVTbSPZtlwKAN8qeDGy9BsYWiFkEm"
+        title="Demo Reel"
+        page_url="demo-reel"
       />
+      <Thumbnail
+        img_url="https://fdpu740ek4.ufs.sh/f/aJLfTNgnRfQIa28mGdgnRfQIhl9OoG7JU5XHy4exZpirWs0E"
+        title="Mt. Joy"
+        page_url="mt-joy"
+        />
       <Thumbnail
         img_url="https://fdpu740ek4.ufs.sh/f/aJLfTNgnRfQI68dlG3LVJCLIuiTdo4kWmcw1RU9azy5tEhGN"
         title="Regret to Inform"

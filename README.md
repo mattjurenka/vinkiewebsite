@@ -20,3 +20,18 @@
 9. Add the unchanged files to git: `git add .`
 10. Commit `git add . -m "your change message"`
 11. Push: `git push`. This will trigger a build and the changes will soon be available at [https://vinkiewebsite.pages.dev/](https://vinkiewebsite.pages.dev/)
+
+
+
+Vinkie Steps:
+
+Sign on Tasks:
+1. "git reset --hard && git pull" in terminal
+2. "npm install" in terminal
+
+Making Changes:
+page.tsx is the main page. Upload thumbnail to upload thing. Copy link and paste it where it needs to go. Then change the actual page that is labeled with the name.
+
+Sign off Tasks:
+1. "npm run build" in terminal
+2. "git add ." in terminal
