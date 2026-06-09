@@ -4,15 +4,15 @@ import Title from "../../../../lib/components/Title";
 import Description from "../../../../lib/components/Description";
 
 export const metadata: Metadata = {
-    title: "Theo - A rockSTAR Story",
+    title: "Zach - A rockSTAR Story",
 };
 
 export default function Page() {
     return <>
-        <Video video_id_first="1083326326" video_id_second="a606ed0be7" />
-        <Title>Theo - A rockSTAR Story</Title>
+        <Video video_id_first="1199645545" video_id_second="e72b13c720" />
+        <Title>Zach - A rockSTAR Story</Title>
         <Description>
-         Bronze Telly Award Winner 2026
+        
         </Description>
     </>
 }

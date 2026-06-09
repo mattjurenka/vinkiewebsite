@@ -4,15 +4,15 @@ import Title from "../../../../lib/components/Title";
 import Description from "../../../../lib/components/Description";
 
 export const metadata: Metadata = {
-    title: "Theo - A rockSTAR Story",
+    title: "Skagit Hometown Event 2026 Recap",
 };
 
 export default function Page() {
     return <>
-        <Video video_id_first="1083326326" video_id_second="a606ed0be7" />
-        <Title>Theo - A rockSTAR Story</Title>
+        <Video video_id_first="1199645546" video_id_second="7fdd0f5d69" />
+        <Title>Skagit Hometown Event 2026 Recap</Title>
         <Description>
-         Bronze Telly Award Winner 2026
+      
         </Description>
     </>
 }
